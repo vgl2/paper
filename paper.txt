@@ -3,3 +3,5 @@ Authors: Me, some other folks
 Subtitle: Cool title
 Hello world
 Is git working? Mkaing sure that git is working
+
+Here is an example edit.
