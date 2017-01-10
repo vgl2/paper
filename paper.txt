@@ -1,2 +1,3 @@
 Title: Some stuff about git: a rope of sand
 Authors: Me, some other folks
+Subtitle: Cool title
